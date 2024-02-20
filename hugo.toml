@@ -120,7 +120,7 @@ disqusShortname = ''
     url = '/about/'
     weight = 30
 
-[Languages.it.params]
+ [Languages.it.params]
   sitename = "Awesome hugo blog"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
