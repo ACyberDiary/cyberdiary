@@ -5,6 +5,29 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on CyberDiary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 20 Feb 2024 03:46:26 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test4</title>
+      <link>http://localhost:1313/posts/test4/</link>
+      <pubDate>Tue, 20 Feb 2024 03:46:26 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/test4/</guid>
+      
+      <description>TEST DBFJIPBMJBMIP</description>
+      
+    </item>
+    
+    <item>
+      <title>Test3</title>
+      <link>http://localhost:1313/posts/test3/</link>
+      <pubDate>Tue, 20 Feb 2024 03:45:46 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/test3/</guid>
+      
+      <description>TESTING THIS</description>
+      
+    </item>
+    
   </channel>
 </rss>
